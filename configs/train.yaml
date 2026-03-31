@@ -1,0 +1,6 @@
+defaults:
+  model: model_template.yaml
+  data: datamodule_template.yaml
+  callbacks: callbacks_template.yaml
+  evaluation: evaluator_template.yaml
+  paths: paths_template.yaml
